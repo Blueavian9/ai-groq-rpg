@@ -6,5 +6,6 @@ A simple generative user driven text adventure using Groq AI to generate the con
 - create a `.env` file and pit the `api key` inside it.
 - run `python3 -m venv .venv` to create a virtual environment.
 - run `source .venv/bin/activate` to activate the environment in linux and mac
+- run `source .venv/Scripts/activate` to activate the environment in Windows 
 - use `pip install -r requirements.txt` to install the requirements.
 - run `python app.py` to start your adventure.
